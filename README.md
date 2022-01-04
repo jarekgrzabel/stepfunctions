@@ -1,6 +1,11 @@
 # StepFunctions Example
 
+Diagram:
 ![StepFunction](docs/StepFunctions.jpg)
+
+Flow:
+
+![flow](docs/stepfunctions_graph.png)
 
 ## Description
 This repository contains the code that allows to build simple demonstration of StepFunction integration with Lambda and `WaitForTaskToken` capability.
