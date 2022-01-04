@@ -1,6 +1,7 @@
 # StepFunctions Example
 
 Diagram:
+
 ![StepFunction](docs/StepFunctions.jpg)
 
 Flow:
