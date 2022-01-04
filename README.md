@@ -1,10 +1,10 @@
 # StepFunctions Example
 
-Diagram:
+### Diagram:
 
 ![StepFunction](docs/StepFunctions.jpg)
 
-Flow:
+### Flow:
 
 ![flow](docs/stepfunctions_graph.png)
 
